@@ -20,7 +20,9 @@ CSV text format, may be processed for Data Analysis (in my TODO list)
 Output Sample
 =============
 1.;Linus Torvalds on implementation of human-readable file system (plus.google.com) ;20 points by hebz0rl 40 minutes ago  | 1 comment
+
 2.;F.lux updated (justgetflux.com) ;370 points by glennericksen 11 hours ago  | 183 comments
+
 3.;WebFlow (webflow.com) ;17 points by squiggy22 1 hour ago  | 2 comments
 
 Pre-requisite
